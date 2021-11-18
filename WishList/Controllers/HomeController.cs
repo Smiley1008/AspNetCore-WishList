@@ -7,7 +7,7 @@
         
         public IActionResult Error()
         {
-            return View("Error   ");
+            return View("Error");
         }
     
 
